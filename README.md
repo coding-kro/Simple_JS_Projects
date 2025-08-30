@@ -59,6 +59,8 @@ Each project is deployed on **Netlify** for quick previews.
 - 👉 [🫂 Add Friend](https://add-follower.netlify.app/)
 - 👉 [❤️ Double Tap Like](https://double-tap-like.netlify.app/)
 - 👉 [📸 Insta Stories Clone](https://insta-stories-views.netlify.app/)
+- 👉 [❤︎ Heart Trail Animation](https://animation-heart-trail.netlify.app/)
+- 👉 [𝐀 Auto Text Effect Animation](https://auto-text-animation-effect.netlify.app/)
 
 
 ---
