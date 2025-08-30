@@ -6,14 +6,13 @@ It types out different career roles one by one, giving a dynamic introduction ef
 ---
 
 ## 🚀 Live Preview
-- 🔗 [Click here to view](https://auto-text-animation-effect.netlify.app/)  
+- 🔗 [✍️ Auto Text Effect Animation](https://auto-text-animation-effect.netlify.app/)  
 
 ---
 
-## 📸 Demo Screenshot
+## 📸 Demo 
 
 ![autotext-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b0bfa8eb-d29e-4f67-aafc-48218df7789a)
-
 
 ---
 
