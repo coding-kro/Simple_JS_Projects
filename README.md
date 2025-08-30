@@ -8,39 +8,41 @@ This repository contains **30+ beginner-friendly JavaScript projects** that I’
 Some of the projects you’ll find here:  
 
 - 🖱️ Custom Cursor  
-- 🖼️ Image Hover Effects  
-- ⏰ Digital Clock  
-- 🎨 Random Color Generator  
-- 🌙🌞 Dark/Light Mode Toggle  
+- 🖼️ Image Hover Animation
+- 🫂 Add Friend
 - ❤️ Double Tap Like  
-- ⏱️ Stopwatch  
 - 📸 Insta Stories Clone  
-- 🎲 Dice Roller  
-- 🔑 Password Generator  
-- 🌐 Weather App (API)  
-- 📝 Todo List  
-- 🎵 Music Player  
-- 🎮 Rock-Paper-Scissors  
-- 🧮 Calculator  
-- 🔍 Search Filter  
-- 🟢 Online/Offline Status Detector  
-- 📋 Clipboard Copy  
-- 🔔 Notification Popup  
-- 🖼️ Image Slider/Carousel  
-- 🔒 Login Form Validation  
-- 📊 Progress Bar  
-- ⏳ Countdown Timer  
-- 🌈 Gradient Background Generator  
-- 💬 Chat Box (UI)  
-- 🃏 Card Flip Effect  
-- 🎤 Speech to Text (Web Speech API)  
-- 📦 Modal Popup  
-- 🗑️ Delete Confirmation Box  
-- 🎉 Surprise Random Quote Generator  
-- 📌 Sticky Navbar  
-
-...and **many more (30+ in total)** 🎉  
-
+- ❤︎ Heart Trail Animation
+- 𝐀 Auto Text Effect Animation
+- 🗓️ Mini Calender
+- 🖱️ Button Ripple Effect
+- 🖼️ Random Photos
+- 🌙🌞 Dark/Light Mode Toggle
+-  👤 Testimonial slider
+-  ⏱ Real Time Character Counter
+- ⏰ Digital Clock
+- ⿻ Double Landing Page
+- 🎨 Random Color Generator
+- 🔄 Rotating Image Gallery
+- 🔎 Animated Search Bar
+- 📱 Loan Calculator
+- 🎆 New Year Countdown
+- ⏳ Pomodoro Timer
+- 🖩 Age Calculator
+- 🪪 Profile Statistics
+- 🎥 Video Trailer Popup
+- 🥁 Drum Kits
+- 🕓 Clock
+- 🌡 Temperature Converter
+- 🎚️ BMI Calculator
+- 📌 Sticky Navbar
+- 😊 Random Emoji
+- ⏱️ Stopwatch
+- 💵 Tip Calculator
+- 📊 Loading Bar
+- 🖼️ Background Image Scroll Effect
+- 🖱️ Mouse Event
+- 🎲 Dice Roll Simulator 
 ---
 
 ## 🛠️ Tech Stack  
@@ -52,7 +54,13 @@ Some of the projects you’ll find here:
 
 ## 📸 Live Demos  
 Each project is deployed on **Netlify** for quick previews.  
-👉 [Check Live Projects Here](#) *(Add your Netlify collection link if available)*  
+👉 [🖱️ Custom Cursor  ](#) *()*  
+👉 [🖱️ Custom Cursor  ](#) *()*  
+👉 [🖱️ Custom Cursor  ](#) *()*  
+👉 [🖱️ Custom Cursor  ](#) *()*  
+👉 [🖱️ Custom Cursor  ](#) *()*  
+👉 [🖱️ Custom Cursor  ](#) *()*  
+👉 [🖱️ Custom Cursor  ](#) *()*  
 
 ---
 
