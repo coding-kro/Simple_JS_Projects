@@ -10,9 +10,9 @@ Move your mouse around the screen and watch beautiful hearts 💕 follow your cu
 
 ---
 
-## 📸 Demo Screenshot
+## 📸 Demo 
 
-<img width="1919" height="873" alt="Screenshot 2025-08-30 203552" src="https://github.com/user-attachments/assets/c6815adc-15d8-435b-9c9d-60fbbb4c702e" />
+![heart-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6cb7868a-ea11-451b-a298-dcdb34957cdc)
 
 ---
 
