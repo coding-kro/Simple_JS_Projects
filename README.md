@@ -1,6 +1,6 @@
 # 🚀 JavaScript Mini Projects  
 
-This repository contains **30+ beginner-friendly JavaScript projects** that I’ve built to practice and strengthen my frontend development skills. Each project focuses on **HTML, CSS, and Vanilla JavaScript** without using frameworks – making them great for learning and experimenting.  
+This repository contains **30+ beginner-friendly JavaScript projects** that I’ve built to practice and strengthen my frontend development skills. Each project focuses on **HTML, CSS, and Vanilla JavaScript** without using frameworks making them great for learning and experimenting.  
 
 ---
 
@@ -54,13 +54,12 @@ Some of the projects you’ll find here:
 
 ## 📸 Live Demos  
 Each project is deployed on **Netlify** for quick previews.  
-👉 [🖱️ Custom Cursor  ] *(https://name-custom-cursor.netlify.app/)*  
-👉 [🖱️ Custom Cursor  ](#) *()*  
-👉 [🖱️ Custom Cursor  ](#) *()*  
-👉 [🖱️ Custom Cursor  ](#) *()*  
-👉 [🖱️ Custom Cursor  ](#) *()*  
-👉 [🖱️ Custom Cursor  ](#) *()*  
-👉 [🖱️ Custom Cursor  ](#) *()*  
+👉 [🖱️ Custom Cursor](https://name-custom-cursor.netlify.app/)
+👉 [🖼️ Image Hover Animation](https://multiple-image-hover-animation.netlify.app/)  
+👉 [🫂 Add Friend](https://add-follower.netlify.app/)
+👉 [❤️ Double Tap Like](https://double-tap-like.netlify.app/)
+👉 [📸 Insta Stories Clone](https://insta-stories-views.netlify.app/)
+
 
 ---
 
