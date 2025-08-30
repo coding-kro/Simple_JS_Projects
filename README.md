@@ -54,11 +54,11 @@ Some of the projects you’ll find here:
 
 ## 📸 Live Demos  
 Each project is deployed on **Netlify** for quick previews.  
-👉 [🖱️ Custom Cursor](https://name-custom-cursor.netlify.app/)
-👉 [🖼️ Image Hover Animation](https://multiple-image-hover-animation.netlify.app/)  
-👉 [🫂 Add Friend](https://add-follower.netlify.app/)
-👉 [❤️ Double Tap Like](https://double-tap-like.netlify.app/)
-👉 [📸 Insta Stories Clone](https://insta-stories-views.netlify.app/)
+- 👉 [🖱️ Custom Cursor](https://name-custom-cursor.netlify.app/)
+- 👉 [🖼️ Image Hover Animation](https://multiple-image-hover-animation.netlify.app/)  
+- 👉 [🫂 Add Friend](https://add-follower.netlify.app/)
+- 👉 [❤️ Double Tap Like](https://double-tap-like.netlify.app/)
+- 👉 [📸 Insta Stories Clone](https://insta-stories-views.netlify.app/)
 
 
 ---
