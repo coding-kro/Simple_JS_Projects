@@ -54,7 +54,7 @@ Some of the projects you’ll find here:
 
 ## 📸 Live Demos  
 Each project is deployed on **Netlify** for quick previews.  
-👉 [🖱️ Custom Cursor  ](#) *(https://name-custom-cursor.netlify.app/)*  
+👉 [🖱️ Custom Cursor  ] *(https://name-custom-cursor.netlify.app/)*  
 👉 [🖱️ Custom Cursor  ](#) *()*  
 👉 [🖱️ Custom Cursor  ](#) *()*  
 👉 [🖱️ Custom Cursor  ](#) *()*  
