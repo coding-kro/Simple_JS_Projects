@@ -13,7 +13,7 @@ Click the **"Load More"** button to fetch and display more random images dynamic
 
 ## 🖼️ Project Preview
 
-![randomphoto-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8edc4229-22c5-4ed0-99c0-3696797945bf)
+![randomphoto-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/57ee7daf-6eff-41e0-89f6-eb447c819006)
 
 ---
 
