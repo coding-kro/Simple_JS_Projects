@@ -61,6 +61,9 @@ Each project is deployed on **Netlify** for quick previews.
 - 👉 [📸 Insta Stories Clone](https://insta-stories-views.netlify.app/)
 - 👉 [❤︎ Heart Trail Animation](https://animation-heart-trail.netlify.app/)
 - 👉 [𝐀 Auto Text Effect Animation](https://auto-text-animation-effect.netlify.app/)
+- 👉 [🗓️ Mini Calender](https://mini-calender-js.netlify.app/)
+- 👉 [🖱️ Button Ripple Effect](https://button-ripple-effect-animation.netlify.app/)
+- 👉 [🖼️ Random Photos](https://random-photos-generator.netlify.app/)
 
 
 ---
