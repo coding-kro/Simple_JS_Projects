@@ -6,7 +6,7 @@ const emoji = [];
 
 async function getEmoji() {
   let response = await fetch(
-    'https://emoji-api.com/emojis?access_key=08d917cab134f7c8b995158e58f0656d8b72b3a9'
+    'https://emoji-api.com/emojis?access_key=PASTE YOUR API KEY'
   );
 
   let data = await response.json();
@@ -28,3 +28,4 @@ btnEl.addEventListener('click', () => {
   btnEl.innerHTML = emoji[randomNum].emojiName;
   emojiNameEl.innerText = emoji[randomNum].emojicode;
 });
+
